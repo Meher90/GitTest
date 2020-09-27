@@ -10,7 +10,5 @@ class MainActivity : AppCompatActivity() {
         // premier commit
 
         // deuxième vague
-
-        // 3eme commit 
     }
 }
